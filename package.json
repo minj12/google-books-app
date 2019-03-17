@@ -1,5 +1,5 @@
 {
-  "name": "nyt-google-books-search",
+  "name": "google-books-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
